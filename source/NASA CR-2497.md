@@ -377,7 +377,7 @@ $$
 
 $$
 =[T_{L2E}]
-\left\{
+\begin{Bmatrix}
 \begin{bmatrix}
 \dot{X}_L \\
 \dot{Y}_L \\
@@ -389,7 +389,7 @@ X_L \\
 Y_L \\
 Z_L - R_e
 \end{bmatrix}
-\right\}
+\end{Bmatrix}
 \tag{2.10}
 $$
 
@@ -502,7 +502,7 @@ Z_L
 \ddot{Z}_L
 \end{bmatrix}
 =[T_{L2E}]
-\left\{
+\begin{Bmatrix}
 \begin{bmatrix}
 \ddot{X}_L \\
 \ddot{Y}_L \\
@@ -520,7 +520,7 @@ X_L \\
 Y_L \\
 Z_L - R_e
 \end{bmatrix}
-\right\}
+\end{Bmatrix}
 \tag{2.15}
 $$
 
@@ -535,7 +535,7 @@ $$
 \ddot{Z}_E
 \end{bmatrix} 
 =[T_{L2E}]
-\left\{
+\begin{Bmatrix}
 \begin{bmatrix}
 0 \\
 0 \\
@@ -553,7 +553,7 @@ $$
 0 \\
 -R
 \end{bmatrix}
-\right\}
+\end{Bmatrix}
 \tag{2.16}
 $$
 
