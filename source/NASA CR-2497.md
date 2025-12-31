@@ -1218,7 +1218,7 @@ $$
 }
 \left[
     (U_{u}^2 + W_{u}^2)\dot{V}_{u}
-    - V_{u}(U_{u}\dot{U}_{u} + W_{u}\dot{W}_{u})
+    -V_{u}(U_{u}\dot{U}_{u} + W_{u}\dot{W}_{u})
 \right] 
 \tag{3.32}
 $$
