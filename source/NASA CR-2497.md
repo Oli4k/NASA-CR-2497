@@ -2189,10 +2189,10 @@ The transpose of (B-2), for instance, shows that a post-operator may also be use
 
 $$
 \begin{aligned}
-\mathbf{\bar{u}}^{\,\prime}
-  &= [u_x\;u_y\;\;u_z] = ([\Omega] \bar{\mathbf{v}})^{\,\prime} = {\bar{\mathbf{v}}}^{\,\prime} [\Omega] \\
-  &= \bar{\mathbf{v}}^{\,\prime} [\Omega] =- 
-    ^{[v_x\;\;v_y\;\;v_z]}
+\mathbf{\bar{u}}^{\prime}
+  &= [u_x\;u_y\;u_z] = ([\Omega] \bar{\mathbf{v}})^{\,\prime} = {\bar{\mathbf{v}}}^{\prime} [\Omega] \\
+  &= \bar{\mathbf{v}}^{\prime} [\Omega] =- 
+    ^{[v_x\;v_y\;v_z]}
     \begin{bmatrix}
       0      & -w_z   &  w_y   \\
       w_z    & 0      & -w_x   \\
