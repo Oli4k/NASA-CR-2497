@@ -1210,15 +1210,13 @@ $$
 \tag{3.31}
 $$
 
-//
+
 $$
-\dot{\beta} =
-\frac{j}{
-    V_{u}^2 \sqrt{U_{u}^2 + W_{u}^2}
-}
+\dot{\beta}=
+\frac{j}{V_{u}^2 \sqrt{U_{u}^2+W_{u}^2}}
 \left[
-    (U_{u}^2 + W_{u}^2)\dot{V}_{u}
-    -V_{u}(U_{u}\dot{U}_{u} + W_{u}\dot{W}_{u})
+    (U_{u}^2+W_{u}^2)\dot{V}_{u}
+    -V_{u}(U_{u}\dot{U}_{u}+W_{u}\dot{W}_{u})
 \right] 
 \tag{3.32}
 $$
