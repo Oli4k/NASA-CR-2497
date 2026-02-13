@@ -2190,7 +2190,7 @@ The transpose of (B-2), for instance, shows that a post-operator may also be use
 $$
 \begin{aligned}
 \mathbf{\bar{u}}^{\prime}
-  &= [u_x\;u_y\;u_z] = ([\Omega] \bar{\mathbf{v}})^{\,\prime} = {\bar{\mathbf{v}}}^{\prime} [\Omega] \\
+  &= [u_x\;u_y\;u_z] = ([\Omega] \bar{\mathbf{v}})^{\prime}={\bar{\mathbf{v}}}^{\prime}[\Omega] \\
   &= \bar{\mathbf{v}}^{\prime} [\Omega] =- 
     ^{[v_x\;v_y\;v_z]}
     \begin{bmatrix}
@@ -2202,7 +2202,7 @@ $$
 \tag{B-6}
 $$
 
-Consider some vector $\mathbf{v}$ in an arbitrary orthonormal coordinate system undergoing simultaneous rotations about all three axes. Let $p$ be the instantaneous rotational velocity about the $x$-axis; $q$ and $r$ are similar quantities defined with respect to the $y$- and $z$-axes, respectively. Define the angular velocity vector $\mathbf{\bar{w}} = (p,\, q,\, r)$
+Consider some vector $\mathbf{v}$ in an arbitrary orthonormal coordinate system undergoing simultaneous rotations about all three axes. Let $p$ be the instantaneous rotational velocity about the $x$-axis; $q$ and $r$ are similar quantities defined with respect to the $y$- and $z$-axes, respectively. Define the angular velocity vector $\mathbf{\bar{w}} = (p, q, r)$
 
 Consider first a rotation about the x-axis (roll) through an angle $\phi$. The vector coordinates of some point $P$ change to $Q$ due to the rotation
 
